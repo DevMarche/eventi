@@ -55,7 +55,8 @@ Per proporvi come organizzatore, sarà sufficiente che commentiate il ticket del
 
 #### Perché non fare una replica dell'evento?
 
-Anche se qualcuno ha già deciso di organizzare un evento per una delle proposte, altre persone potrebbero comunque essere interessate a farne una replica in un altro luogo (o in altro orario/data).    
+Anche se qualcuno ha già deciso di organizzare un evento per una delle proposte, altre persone potrebbero comunque essere interessate a farne una replica in un altro luogo (o in altro orario/data).
+
 Le Marche sono un territorio sufficientemente grande, per cui se ad esempio si propone un evento a Pesaro/Ancona, può averne senso farne una replica in un altro luogo come San Benedetto del Tronto o Ascoli.
 
 Considerate che l'organizzazione di un evento richiede molto meno tempo rispetto a quello che occorre allo speaker per preparare il materiale, perciò farne delle repliche può essere un buon modo per lo speaker stesso di riutilizzare ciò su cui ha già speso delle energie, massimizzando così il risultato.
