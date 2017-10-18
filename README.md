@@ -53,7 +53,8 @@ Quindi saranno i partecipanti interessati alle proposte che, invece di votare pe
 
 Per proporvi come organizzatore, sarà sufficiente che commentiate il ticket della proposta e da lì partirà la discussione.
 
-#### Perché non fare una replica dell'evento?
+
+### Perché non fare una replica dell'evento?
 
 Anche se qualcuno ha già deciso di organizzare un evento per una delle proposte, altre persone potrebbero comunque essere interessate a farne una replica in un altro luogo (o in altro orario/data).
 
