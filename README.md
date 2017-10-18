@@ -61,7 +61,7 @@ Le Marche sono un territorio sufficientemente grande, per cui se ad esempio si p
 
 Considerate che l'organizzazione di un evento richiede molto meno tempo rispetto a quello che occorre allo speaker per preparare il materiale, perciò farne delle repliche può essere un buon modo per lo speaker stesso di riutilizzare ciò su cui ha già speso delle energie, massimizzando così il risultato.
 
-Perciò, anche proposte di repliche di un evento su cui c'è interesse sono ben accette!
+Quindi, anche proposte di repliche di un evento su cui c'è interesse sono ben accette: con lo stesso meccanismo, commentate i ticket e si valuterà se è possibile organizzarle.
 
 
 
