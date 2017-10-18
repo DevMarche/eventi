@@ -36,6 +36,7 @@ Il meccanismo funziona in questo modo:
 #### Commenti alla proposta
 
 Una volta inviata una proposta, chiunque può commentarla, per chiedere eventuali chiarimenti o far evolvere la discussione e magari creare un evento ancora più bello :)
+Ovviamente più proposte di sessioni legate da un filo conduttore potrebbero essere accorpate in un unico evento.
 
 #### Scelta delle proposte per le quali organizzare un evento
 
